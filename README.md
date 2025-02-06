@@ -1,0 +1,5 @@
+- use a versão do node 20.11
+    - nvm i 20.11
+    - nvm use 20.11
+- docker compose up -d
+- npm run test
